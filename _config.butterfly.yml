@@ -34,7 +34,7 @@ code_word_wrap: false
 # formal:
 #   icon: link || the description || color
 social:
-  fab fa-bilibili: https://space.bilibili.com/19305317 || Bilibili || '#24292e'
+  # fab fa-bilibili: https://space.bilibili.com/19305317 || Bilibili || '#24292e'
   # fas fa-envelope: mailto:xxxxxx@gmail.com || Email || '#4a7dbe'
 
 # Image (圖片設置)
@@ -230,12 +230,12 @@ aside:
     description:
     button:
       enable: true
-      icon: fab fa-github
-      text: Follow Me
-      link: https://github.com/xxxxxx
+      icon: fab fa-bilibili
+      text: B站
+      link: https://space.bilibili.com/19305317
   card_announcement:
     enable: true
-    content: This is my Blog
+    content: 你好呀~
   card_recent_post:
     enable: true
     limit: 5 # if set 0 will show all
