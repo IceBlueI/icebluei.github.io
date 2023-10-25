@@ -34,7 +34,7 @@ code_word_wrap: false
 # formal:
 #   icon: link || the description || color
 social:
-  # fab fa-github: https://github.com/xxxxx || Github || '#24292e'
+  fab fa-bilibili: https://space.bilibili.com/19305317 || Bilibili || '#24292e'
   # fas fa-envelope: mailto:xxxxxx@gmail.com || Email || '#4a7dbe'
 
 # Image (圖片設置)
@@ -45,7 +45,7 @@ favicon: /img/favicon.png
 
 # Avatar (頭像)
 avatar:
-  img: https://i.loli.net/2021/02/24/5O1day2nriDzjSu.png
+  img: https://i.postimg.cc/4yZq5YK7/tae.png
   effect: false
 
 # Disable all banner image
